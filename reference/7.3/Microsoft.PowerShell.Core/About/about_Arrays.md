@@ -627,7 +627,7 @@ The acceptable values for `mode` are:
 - Default (0) - Return all items
 - First (1) - Return the first item
 - Last (2) - Return the last item
-- SkipUntil (3) - Skip items until condition is true, the return the remaining
+- SkipUntil (3) - Skip items until condition is true, return the remaining
   items
 - Until (4) - Return all items until condition is true
 - Split (5) - Return an array of two elements
